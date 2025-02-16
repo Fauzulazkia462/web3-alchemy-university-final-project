@@ -105,7 +105,7 @@ export const InquiryTab = () => {
             <div className="w-full max-w-lg bg-gray-800 p-8 rounded-xl shadow-lg mt-10">
                 <h2 className="text-xl font-semibold flex items-center gap-2 mb-4">📜 Get Charity History</h2>
                 <p className="text-gray-400 text-sm">
-                    Use <strong>(history length - 1)</strong> as the latest index.
+                    Use <strong>(history count - 1)</strong> as the latest index.
                 </p>
                 <div className="flex gap-4">
                     <Input
